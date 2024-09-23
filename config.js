@@ -1,9 +1,9 @@
 module.exports = {
     app: {
-        token: process.env.DISCORD_TOKEN || 'xxx',
+        token: process.env.DISCORD_TOKEN || 'MTI4NzM2MTc5NTAwNjI3MTYxMg.GWwuhs.QLktfNzchvkB87Vqg79yCNlc_zgfg_YSVomwRM',
         playing: 'by the Community ❤️',
         global: true,
-        guild: process.env.GUILD_ID || 'xxx',
+        guild: process.env.GUILD_ID || '1287361795006271612',
         extraMessages: false,
         loopMessage: false,
         lang: 'en',
@@ -23,7 +23,7 @@ module.exports = {
     opt: {
         DJ: {
             enabled: false,
-            roleName: '',
+            roleName: 'Dj Hot',
             commands: []
         },
         Translate_Timeout: 10000,
